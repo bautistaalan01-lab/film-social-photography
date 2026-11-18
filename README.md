@@ -1,4 +1,4 @@
-# Alan Bautista — Film · Social · Photography
+# Alan-Bautista — Film · Social · Photography
 
 A personal portfolio for a multidisciplinary creative working across **film production**, **social media content**, and **photography**. It has a cinematic dark design with film grain, an editorial serif, and a tungsten-amber accent, and it shows the work in a filterable masonry grid with a full-screen project viewer.
 
