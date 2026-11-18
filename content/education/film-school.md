@@ -1,8 +1,6 @@
 ---
-school: 'BFA, Film & Television Production'
-summary: 'Concentration in cinematography and documentary.'
-startDate: '2012-09-01'
-endDate: '2016-05-31'
+school: 'California State University, Los Angeles'
+summary: 'Bachelor of Arts in Television, Film, & Media Studies.'
 tags: ['Cinematography', 'Documentary', 'Editing']
 ---
 
