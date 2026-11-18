@@ -1,16 +1,15 @@
 export const site = {
-  name: 'Rowan Vale',
+  name: 'Alan Bautista',
   role: 'Filmmaker, content creator & photographer',
   location: 'Los Angeles · Available worldwide',
-  email: 'hello@rowanvale.studio',
+  email: 'bautstaalan01@gmail.com',
   description:
-    'Rowan Vale — director, cinematographer, social content creator and photographer telling stories in motion and in stills.',
+    'Alan Bautista' — director, cinematographer, social content creator and photographer telling stories in motion and in stills.',
   summary:
     'I make films, scroll-stopping social content, and photographs that feel lived-in. From commercial shoots and short documentaries to vertical-first brand campaigns and editorial portraits, I take projects from first idea to final grade.',
   socials: [
-    { label: 'Instagram', href: 'https://instagram.com' },
-    { label: 'Vimeo', href: 'https://vimeo.com' },
-    { label: 'TikTok', href: 'https://tiktok.com' },
+    { label: 'Instagram', href: 'https://www.instagram.com/ab.12vault?xtok=aDQ3aTdmMTdvM212&utm_source=qr' },
+    { label: 'TikTok', href: 'https://www.tiktok.com/@alanx.12?ug_source=op.auth&ug_term=Linktr.ee&utm_source=awyc6vc625ejxp86&utm_campaign=tt4d_profile_link&_r=1' },
     { label: 'YouTube', href: 'https://youtube.com' },
   ],
 }
